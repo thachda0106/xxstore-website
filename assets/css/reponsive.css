@@ -1,0 +1,22 @@
+/* PC */
+/* @media (min-width: 1024px ){
+    .header__wrap {
+        width: 1170px;
+    }
+} */
+
+/* tablet */
+/* @media (min-width : 740px) and (max-width : 1023px) {
+    .header__wrap {
+        width: 970px;
+    }
+} */
+
+/* mobile */
+/* @media (max-width: 739px) {
+    .header__wrap {
+        width: 750px;
+    }
+
+} */
+
